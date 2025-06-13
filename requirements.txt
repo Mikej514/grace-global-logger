@@ -1,0 +1,8 @@
+Flask
+pyttsx3
+SpeechRecognition
+openai
+requests
+python-dotenv
+opencv-python
+cryptography
